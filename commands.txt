@@ -5,3 +5,9 @@ docker build -f .gitpod.Dockerfile -t parrot-os-dockerfile . && docker run -it p
 
 # permit root login yes
 
+# apt install vim
+# wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+# unzip ngrok*
+# mv ngrok /bin
+# ngrok authtoken
+
