@@ -1,1 +1,7 @@
 docker build -f .gitpod.Dockerfile -t parrot-os-dockerfile . && docker run -it parrot-os-dockerfile bash
+
+
+# /etc/ssh/sshd_config
+
+# permit root login yes
+
