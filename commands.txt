@@ -10,4 +10,5 @@ docker build -f .gitpod.Dockerfile -t parrot-os-dockerfile . && docker run -it p
 # unzip ngrok*
 # mv ngrok /bin
 # ngrok authtoken
+# https://www.mickhat.xyz/posts/parrot-on-gitpod/
 
